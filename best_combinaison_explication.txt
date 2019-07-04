@@ -1,0 +1,37 @@
+LFs = [21 fonctions de labellisation]
+
+Demande à l'utilisateur le nombre de groupes (3 ou 4) ?
+L'utilisateur constitue les groupes
+groupes = [ [LF1, LF2, ...], ... [...LF21] ] (en fonction de l'utilisateur)
+
+Initialisation :
+Boucle sur tous les éléments de groupes
+for groupe in groupes
+	get_power_set(groupe) combinaison de l'ensemble
+
+ListFs = [ 
+([MeilleurCombi1], fmesure1),
+([MeilleurCombi2], fmesure2), 
+...
+]
+
+Taille de ListFs = Nombre de groupes
+
+boucle = True
+changement = False
+Boucle tant que boucle = True:
+get_power_set(ListFs)
+groupes = [ ([MeilleurCombi1,MeilleurCombi2], fmesuremax (entre fmesure1 et fmesure2) ),
+...
+]
+
+for groupe in groupes
+	for LFs in groupe
+		Calcul de fmesure
+		Récupération de la fmesure max de groupe et du LFs
+Si fmesure max de groupe > fmesuremax alors ajout de LFs dans une nouvelle liste 
+et la boucle continue
+Sinon arrêt de la boucle et meilleur combi affiché
+		
+			
+
