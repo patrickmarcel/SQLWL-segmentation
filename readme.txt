@@ -29,3 +29,9 @@ To do
 - include java code to create ID files
 
 - add Willeme's code to produce metrics from raw log files
+
+- rationalize the way query parts are computed to avoid double counting (NoP, NoA, NoS)
+
+- generate genuine SQL queries from smartBI queries
+ 
+- rationalize thresholds used for normalization 
