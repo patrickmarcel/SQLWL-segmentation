@@ -6,6 +6,9 @@ If you wish to use the code, please cite one of the references below.
 
 **References**
 
+Veronika Peralta, Patrick Marcel, Willeme Verdeaux, Aboubakar Sidikhy Diakhaby: Detecting coherent explorations in SQL workloads
+
+
 [Verónika Peralta, Willeme Verdeaux, Yann Raimont, Patrick Marcel: Qualitative Analysis of the SQLShareWorkload for Session Segmentation. DOLAP 2019](http://ceur-ws.org/Vol-2324/Paper18-PMarcel.pdf)
 
 
