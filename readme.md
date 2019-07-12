@@ -1,6 +1,8 @@
 **SQLWL-segmentation**
 
-Tools for segmenting a SQL workload into coherent explorations
+Tools for segmenting a SQL workload into coherent explorations.
+If you wish to use the code, please cite the references below.
+
 
 **References**
 
