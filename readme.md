@@ -1,12 +1,12 @@
 **SQLWL-segmentation**
 
 Tools for segmenting a SQL workload into coherent explorations.
-If you wish to use the code, please cite one of the references below.
+If you wish to use the code, please cite the first reference below.
 
 
 **References**
 
-[Veronika Peralta, Patrick Marcel, Willeme Verdeaux, Aboubakar Sidikhy Diakhaby: Detecting coherent explorations in SQL workloads. Information systems, 2020](https://doi.org/10.1016/j.is.2019.101479)
+[Veronika Peralta, Patrick Marcel, Willeme Verdeaux, Aboubakar Sidikhy Diakhaby: Detecting coherent explorations in SQL workloads. Information systems, Volume 92, September 2020](https://doi.org/10.1016/j.is.2019.101479)
 
 [Veronika Peralta, Patrick Marcel, Willeme Verdeaux, Aboubakar Sidikhy Diakhaby: Detecting coherent explorations in SQL workloads. http://arxiv.org/abs/1907.05618](http://arxiv.org/abs/1907.05618)
 
